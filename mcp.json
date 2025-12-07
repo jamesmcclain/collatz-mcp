@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "collatz-server": {
+      "url": "http://10.0.0.69:8765/mcp",
+      "transport": "http"
+    }
+  }
+}
